@@ -1,6 +1,6 @@
 ---
 layout: default
-title: トップページ
+title: プログラミング講習会
 ---
 
 ## 九州大学ICPCチャレンジ部　
