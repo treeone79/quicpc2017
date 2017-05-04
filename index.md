@@ -38,6 +38,9 @@ title: プログラミング講習会
 
 - [第2回練習会 (AtCoder Virtual Contest)](https://not-522.appspot.com/contest/6403267588259840)
 
+- [第3回練習会 (AtCoder Virtual Contest)](https://not-522.appspot.com/contest/6510628281778176)
+
+
 - オンライン実行環境
 
     自分のPCにC言語の開発環境がない人は、以下のオンライン実行環境の中から好きなものを使いましょう。
