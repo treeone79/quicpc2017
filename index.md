@@ -18,7 +18,7 @@ title: プログラミング講習会
 
     回答に不備があった場合は講習会の間に確認を取りますので、できるだけ第3回講習会までに回答をお願いします。
     
-    [【新入部員用】ICPCCC 部員アンケート2017](https://goo.gl/forms/FLSqObh9EQRWOE6k2)
+    [【新入生用】ICPCCC 部員アンケート2017](https://goo.gl/forms/FLSqObh9EQRWOE6k2)
 
 
 - 例年6月末〜7月上旬に行われているICPC国内予選に参加する新入生を募集しています。
