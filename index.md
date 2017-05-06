@@ -21,8 +21,11 @@ title: プログラミング講習会
     [【新入生用】ICPCCC 部員アンケート2017](https://goo.gl/forms/FLSqObh9EQRWOE6k2)
 
 
-- 例年6月末〜7月上旬に行われているICPC国内予選に参加する新入生を募集しています。
+- 例年6月末〜7月上旬に行われている ICPC 国内予選に参加する新入生を募集しています。
     
+- [AOJ-ICPC](http://aoj-icpc.ichyo.jp/) というサイトでは過去の ICPC 関連の問題が難易度順に並べられています。
+    
+    講習会の内容が簡単すぎて暇な人や、今年の ICPC 国内予選に参加することを考えている人はやってみましょう。
 
 - 今後の連絡はメールではなく主にSkypeで行う予定です。
 
@@ -94,8 +97,6 @@ title: プログラミング講習会
 - [Aizu Online Judge (AOJ)](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp)
 
     ICPCの過去の問題などがある会津大学のオンラインジャッジです。
-
-    講習会の内容が簡単で暇な人は [Introduction to Programming](<http://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?course=ITP1>) というコースに挑戦してみよう。
 
     [※新規登録はここから](<http://judge.u-aizu.ac.jp/onlinejudge/register.jsp>)
 
