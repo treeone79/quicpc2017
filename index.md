@@ -25,7 +25,7 @@ title: プログラミング講習会
 
     - 今年の ICPC に参加する人は 5/12(金)までに以下のアンケートに回答してください。
 
-        [ICPCチーム分けアンケート](https://goo.gl/forms/LOK1ObPhA1LrDkY93)
+        [ICPCチーム決めアンケート](https://goo.gl/forms/LOK1ObPhA1LrDkY93)
 
     - チーム決めは5/18(木)19:00~ウエスト2号館505室で行う予定です。
 
