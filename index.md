@@ -56,7 +56,7 @@ title: プログラミング講習会
 
     - [ideone](https://ideone.com/)
 
-- 開発環境の紹介
+- 開発環境の紹介 (準備中)
 
     - Windows
 
