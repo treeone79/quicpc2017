@@ -10,14 +10,11 @@ title: プログラミング講習会
 
 - 第4回講習会　5/15(月)　センター2号館 2213教室　18:30 〜
 
+- 第5回講習会　5/22(月)　センター2号館 2213教室　18:30 〜
+
 - 前回の講習会の内容がやや難しかったようなので補足資料を作りました。
 
     部の Google Drive の [2017(公開用)](https://drive.google.com/open?id=0B9of6y9tKcUzODYwM2dVNC1iRnc) に置いているので、ぜひ活用してください。
-
-- 部員名簿を作成するためのアンケートです。<font color="red">最終締め切りは 5/12(金) です。</font>
-
-    [【新入生用】ICPCCC 部員アンケート2017](https://goo.gl/forms/FLSqObh9EQRWOE6k2)
-
 
 - 7/14(金) に行われる ICPC 国内予選に参加する新入生を募集しています。
 
@@ -25,26 +22,28 @@ title: プログラミング講習会
 
         [ICPCチーム決めアンケート](https://goo.gl/forms/LOK1ObPhA1LrDkY93)
 
-    - チーム決めは 5/18(木)19:00~ ウエスト2号館505室で行う予定です。
+    - チーム決めは 5/18(木)19:00~ ウエスト2号館505室で行う予定です。※17:30〜上回生の通常の活動も行っています。
 
     - [AOJ-ICPC](http://aoj-icpc.ichyo.jp/) というサイトでは過去の ICPC 関連の問題が難易度順に並べられています。
     
-        講習会の内容が簡単すぎて暇な人や、今年の ICPC 国内予選に参加することを考えている人はやってみましょう。
+        講習会の練習問題が終わって暇な人や、今年の ICPC 国内予選に参加する人は挑戦してみましょう。
 
 
 2　講習会の資料など
 
-- [C言語講習資料](https://treeone79.github.io/lecture-c/)
-
 - [新入生向け資料置き場 (Google Drive)](https://drive.google.com/open?id=0B9of6y9tKcUzODYwM2dVNC1iRnc)
 
 - [練習問題 (hackerrank)](<https://www.hackerrank.com/c-lecture>)
+
+- [C言語講習資料](https://treeone79.github.io/lecture-c/) (制作中)
 
 - [第1回練習会 (AtCoder Virtual Contest)](https://not-522.appspot.com/contest/5759258180190208)
 
 - [第2回練習会 (AtCoder Virtual Contest)](https://not-522.appspot.com/contest/6403267588259840)
 
 - [第3回練習会 (AtCoder Virtual Contest)](https://not-522.appspot.com/contest/6510628281778176)
+
+- [第4回練習会 (AtCoder Virtual Contest)](https://not-522.appspot.com/contest/5750495842926592)
 
 
 - オンライン実行環境
