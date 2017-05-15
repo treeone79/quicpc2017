@@ -43,11 +43,7 @@ title: プログラミング講習会
 
     自分のPCにC言語の開発環境がない人は、以下のオンライン実行環境の中から好きなものを使いましょう。
 
-    - [paiza.io](https://paiza.io/projects/new)
-
-    - [wandbox](https://wandbox.org/)
-
-    - [ideone](https://ideone.com/)
+    ・[paiza.io](https://paiza.io/projects/new)　・[wandbox](https://wandbox.org/)　・[ideone](https://ideone.com/)
 
 - 開発環境の紹介 (準備中)
 
