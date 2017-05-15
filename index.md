@@ -34,13 +34,9 @@ title: プログラミング講習会
 
 - [C言語講習資料](https://treeone79.github.io/lecture-c/) (制作中)
 
-- [第1回練習会 (AtCoder Virtual Contest)](https://not-522.appspot.com/contest/5759258180190208)
-
-- [第2回練習会 (AtCoder Virtual Contest)](https://not-522.appspot.com/contest/6403267588259840)
-
-- [第3回練習会 (AtCoder Virtual Contest)](https://not-522.appspot.com/contest/6510628281778176)
-
-- [第4回練習会 (AtCoder Virtual Contest)](https://not-522.appspot.com/contest/5750495842926592)
+- 新入生向け練習会 (AtCoder Virtual Contest)
+ 
+    [第1回 (4/24)](https://not-522.appspot.com/contest/5759258180190208)　[第2回 (5/1)](https://not-522.appspot.com/contest/6403267588259840)　[第3回 (5/8)](https://not-522.appspot.com/contest/6510628281778176)　[第4回 (5/15)](https://not-522.appspot.com/contest/5750495842926592)　[第5回 (5/22)]()
 
 
 - オンライン実行環境
