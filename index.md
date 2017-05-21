@@ -10,14 +10,13 @@ title: プログラミング講習会
 
 - 第5回講習会　5/22(月)　センター2号館 2213教室　18:30 〜
 
-- 5/20(土) に行われた AtCoder Beginner Contest 062 の A,B の解答コード例を書いたので、参加した人はぜひ参考にしてください。
+- 5/20(土) に行われた AtCoder Beginner Contest 062 の A、B の解答コード例を書いたので、参加した人はぜひ参考にしてください。
 
     [ABC062解答コード例](https://drive.google.com/open?id=0B9of6y9tKcUzVi1lQXE1dWpGMzg)
 
+- 講習会で練習問題が早く終わって暇な人は過去の AtCoder Beginner Contest の問題をやってみよう。
 
-- [AOJ-ICPC](http://aoj-icpc.ichyo.jp/) というサイトでは過去の ICPC 関連の問題が難易度順に並べられています。
-    
-    講習会の練習問題が終わって暇な人や、今年の ICPC 国内予選に参加する人は挑戦してみましょう。
+    [AtCoder Problems](http://kenkoooo.com/atcoder/?name=&rivals=&kind=index) というサイトを使うと便利です。
 
 
 ### 2　講習会の資料など
@@ -48,14 +47,6 @@ title: プログラミング講習会
 
 ### 3　各種サイトへの登録
 
-- Skype 
-
-    今後の連絡に使います。まだ講習会のグループに入っていない方は以下のリンクから必ず参加してください。
-
-     [Skype : ICPCチャレンジ部 プログラミング講習会 2017](<https://join.skype.com/z6b3cucjrTlK>)
-
-    [Skypeのダウンロードはここから](https://www.skype.com/ja/download-skype/skype-for-computer/)
-
 - [AtCoder](http://atcoder.jp)
 
     プログラミングコンテストが定期的に開催されている日本のサイト
@@ -63,6 +54,17 @@ title: プログラミング講習会
     過去のコンテストの問題を解くときには [AtCoder Problems](http://kenkoooo.com/atcoder/?name=&rivals=&kind=index) というサイトを使うと便利です。
     
     [※新規登録はここから](<https://practice.contest.atcoder.jp/register>)
+
+- [Aizu Online Judge (AOJ)](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp)
+
+    ICPCの過去の問題などがある会津大学のオンラインジャッジです。
+
+    [AOJ-ICPC](http://aoj-icpc.ichyo.jp/) というサイトでは過去の ICPC 関連の問題が難易度順に並べられています。
+    
+    講習会の練習問題が終わって暇な人や、今年の ICPC 国内予選に参加する人は挑戦してみましょう。
+
+    [※新規登録はここから](<http://judge.u-aizu.ac.jp/onlinejudge/register.jsp>)
+
 
 - [Hackerrank](https://www.hackerrank.com/dashboard)
 
@@ -76,10 +78,10 @@ title: プログラミング講習会
 
     [※新規登録はここから](<https://not-522.appspot.com/register>)
 
-- [Aizu Online Judge (AOJ)](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp)
+- Skype 
 
-    ICPCの過去の問題などがある会津大学のオンラインジャッジです。
+    今後の連絡に使います。まだ講習会のグループに入っていない方は以下のリンクから参加してください。
 
-    [※新規登録はここから](<http://judge.u-aizu.ac.jp/onlinejudge/register.jsp>)
+     [Skype : ICPCチャレンジ部 プログラミング講習会 2017](<https://join.skype.com/z6b3cucjrTlK>)
 
-
+    [Skypeのダウンロードはここから](https://www.skype.com/ja/download-skype/skype-for-computer/)
