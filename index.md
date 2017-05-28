@@ -12,7 +12,9 @@ title: プログラミング講習会
 
 - 第7回講習会　6/5(月)　 センター2号館 2213教室　18:30 〜
  
-- 講習会で練習問題が早く終わって暇な人は過去の AtCoder Beginner Contest の問題をやってみよう。(新しい回からやることをオススメします)
+- 講習会で練習問題が早く終わって暇な人は過去の AtCoder Beginner Contest の問題をやってみよう。
+
+    (新しい回からやることをオススメします)
 
     [AtCoder Problems](http://kenkoooo.com/atcoder/?name=&rivals=&kind=index) というサイトを使うと便利です。
 
