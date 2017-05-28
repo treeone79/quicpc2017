@@ -8,17 +8,17 @@ title: プログラミング講習会
 
 ### 1　連絡事項
 
-- 第5回講習会　5/22(月)　センター2号館 2213教室　18:30 〜
+- 第6回講習会　5/29(月)　センター2号館 2213教室　18:30 〜
 
-- 5/20(土) に行われた AtCoder Beginner Contest 062 の A、B の解答コード例を書いたので、参加した人はぜひ参考にしてください。
-
-    [ABC062解答コード例](https://drive.google.com/open?id=0B9of6y9tKcUzVi1lQXE1dWpGMzg)
-
-- 講習会で練習問題が早く終わって暇な人は過去の AtCoder Beginner Contest の問題をやってみよう。
+- 第7回講習会　6/5(月)　 センター2号館 2213教室　18:30 〜
+ 
+- 講習会で練習問題が早く終わって暇な人は過去の AtCoder Beginner Contest の問題をやってみよう。(新しい回からやることをオススメします)
 
     [AtCoder Problems](http://kenkoooo.com/atcoder/?name=&rivals=&kind=index) というサイトを使うと便利です。
 
-
+- 今年の ICPC 国内予選に参加する人は、[AOJ-ICPC](http://aoj-icpc.ichyo.jp/) にある過去の大会の問題を解きましょう。
+    
+    
 ### 2　講習会の資料など
 
 - [新入生向け資料置き場 (Google Drive)](https://drive.google.com/open?id=0B9of6y9tKcUzODYwM2dVNC1iRnc)
@@ -29,7 +29,7 @@ title: プログラミング講習会
 
 - 新入生向け練習会 (AtCoder Virtual Contest)
  
-    [第1回 (4/24)](https://not-522.appspot.com/contest/5759258180190208)　[第2回 (5/1)](https://not-522.appspot.com/contest/6403267588259840)　[第3回 (5/8)](https://not-522.appspot.com/contest/6510628281778176)　[第4回 (5/15)](https://not-522.appspot.com/contest/5750495842926592)　[第5回 (5/22)](https://not-522.appspot.com/contest/5691286564634624)
+    [第1回 (4/24)](https://not-522.appspot.com/contest/5759258180190208)　[第2回 (5/1)](https://not-522.appspot.com/contest/6403267588259840)　[第3回 (5/8)](https://not-522.appspot.com/contest/6510628281778176)　[第4回 (5/15)](https://not-522.appspot.com/contest/5750495842926592)　[第5回 (5/22)](https://not-522.appspot.com/contest/5691286564634624)　[第6回 (5/29)]()
 
 
 - オンライン実行環境
