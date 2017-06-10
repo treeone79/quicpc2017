@@ -8,17 +8,21 @@ title: プログラミング講習会
 
 ### 1　連絡事項
 
-- 第7回講習会　6/5(月)　センター2号館 2213教室　18:30 〜
-
 - 第8回講習会　6/12(月)　 センター2号館 2213教室　18:30 〜
+
+- 第9回講習会　6/19(月)　 センター2号館 2213教室　18:30 〜
 
 - 今週末の 6/10(土) 21:00から [AtCoder Beginner Contest 064](http://abc064.contest.atcoder.jp) が開催される予定です。
 
     時間の合う人はぜひ参加してみましょう。
- 
-- 普段使われていませんが部室が存在します。場所はテニスコート奥、体育館横の課外活動施設Ⅰの322室です。
 
-    火曜の15時くらいからは部員が何人かいるので、質問等への対応が可能です。ぜひ気軽にお越し下さい。
+- 今後の講習会の予定
+
+    C++講習、アルゴリズム入門、TopCoder導入、マラソンマッチ入門
+ 
+- ICPCチャレンジ部の部室はテニスコート奥、体育館横の課外活動施設Ⅰの322室です。
+
+    火曜の15時〜18時の時間帯は部員いるので、質問への対応が可能です。
 
 - 講習会で練習問題が早く終わって暇な人は過去の AtCoder Beginner Contest の問題をやってみよう。
 
@@ -27,19 +31,22 @@ title: プログラミング講習会
     [AtCoder Problems](http://kenkoooo.com/atcoder/?name=&rivals=&kind=index) というサイトを使うと便利です。
 
 - 今年の ICPC 国内予選に参加する人は、[AOJ-ICPC](http://aoj-icpc.ichyo.jp/) にある過去の大会の問題を解きましょう。
-    
+
+
     
 ### 2　講習会の資料など
 
 - [新入生向け資料置き場 (Google Drive)](https://drive.google.com/open?id=0B9of6y9tKcUzODYwM2dVNC1iRnc)
 
-- [練習問題 (hackerrank)](<https://www.hackerrank.com/c-lecture>)
+- [練習問題① (hackerrank)](<https://www.hackerrank.com/c-lecture>)
+
+- [練習問題② (hackerrank)](https://www.hackerrank.com/icpc2017lecture)
 
 - [C言語講習資料](https://treeone79.github.io/lecture-c/) (制作中)
 
 - 新入生向け練習会 (AtCoder Virtual Contest)
  
-    [第1回 (4/24)](https://not-522.appspot.com/contest/5759258180190208)　[第2回 (5/1)](https://not-522.appspot.com/contest/6403267588259840)　[第3回 (5/8)](https://not-522.appspot.com/contest/6510628281778176)　[第4回 (5/15)](https://not-522.appspot.com/contest/5750495842926592)　[第5回 (5/22)](https://not-522.appspot.com/contest/5691286564634624)　[第6回 (5/29)](https://not-522.appspot.com/contest/5178580145274880)　[第7回 (6/5)](https://not-522.appspot.com/contest/5666380049285120)
+    [第1回 (4/24)](https://not-522.appspot.com/contest/5759258180190208)　[第2回 (5/1)](https://not-522.appspot.com/contest/6403267588259840)　[第3回 (5/8)](https://not-522.appspot.com/contest/6510628281778176)　[第4回 (5/15)](https://not-522.appspot.com/contest/5750495842926592)　[第5回 (5/22)](https://not-522.appspot.com/contest/5691286564634624)　[第6回 (5/29)](https://not-522.appspot.com/contest/5178580145274880)　[第7回 (6/5)](https://not-522.appspot.com/contest/5666380049285120)　[第8回 (6/12)](https://not-522.appspot.com/contest/5191444914503680)
 
 
 - オンライン実行環境
