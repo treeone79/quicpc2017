@@ -53,11 +53,15 @@ title: プログラミング講習会
 
     ・[paiza.io](https://paiza.io/projects/new)　・[wandbox](https://wandbox.org/)　・[ideone](https://ideone.com/)
 
-- 開発環境の紹介 (準備中)
+- 開発環境の紹介
 
     - Windows
 
-    - Mac
+        - [visual studio](https://drive.google.com/file/d/0B4cFyDt3EyoHYlpEa3ZCYlFTaHM/view?usp=sharing) 
+
+        - [MinGW + vscode](https://drive.google.com/open?id=0B9of6y9tKcUzSW1nLWVqQWhaZGM)
+
+    - [Mac](https://drive.google.com/open?id=0B9iMG4uLIrLsMThjSGk3U0hvVGs)
 
 
 ### 3　各種サイトへの登録
