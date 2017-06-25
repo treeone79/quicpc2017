@@ -12,7 +12,7 @@ title: プログラミング講習会
 
 - 第11回講習会　7/3(月)　 センター2号館 2213教室　18:30 〜
 
-- 7/1(土)21:00〜 [AtCoder Beginner Contest 066](http://abc066.contest.atcoder.jp/) が開催されます。
+- 7/1(土)の21:00から [AtCoder Beginner Contest 066](http://abc066.contest.atcoder.jp/) が開催されます。
 
     時間の合う人は参加してみましょう。
 
