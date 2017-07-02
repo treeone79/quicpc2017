@@ -8,13 +8,10 @@ title: プログラミング講習会
 
 ### 1　連絡事項
 
-- 第10回講習会　6/26(月)　 センター2号館 2213教室　18:30 〜
-
 - 第11回講習会　7/3(月)　 センター2号館 2213教室　18:30 〜
 
-- 7/1(土)の21:00から [AtCoder Beginner Contest 066](http://abc066.contest.atcoder.jp/) が開催されます。
+- 第12回講習会　7/10(月)　 センター2号館 2213教室　18:30 〜
 
-    時間の合う人は参加してみましょう。
 
 - 今後の講習会の予定
 
@@ -22,11 +19,7 @@ title: プログラミング講習会
  
 - ICPC国内予選に参加する人へ
 
-    - 7/2(日)の14:00〜17:00にICPC模擬国内予選が行われます。
-
-        当日は図書館の部屋を貸し切って、チームごとに集まる予定です。
-
-        ※参加できない場合はチームリーダーに連絡して下さい。
+    7/14(金)に国内予選が行われます。ウエスト2号館506室に集まって下さい。
 
 - 講習会で練習問題が早く終わって暇な人は過去の AtCoder Beginner Contest の問題をやってみよう。
 
@@ -52,7 +45,7 @@ title: プログラミング講習会
  
     [第1回 (4/24)](https://not-522.appspot.com/contest/5759258180190208)　[第2回 (5/1)](https://not-522.appspot.com/contest/6403267588259840)　[第3回 (5/8)](https://not-522.appspot.com/contest/6510628281778176)　[第4回 (5/15)](https://not-522.appspot.com/contest/5750495842926592)　[第5回 (5/22)](https://not-522.appspot.com/contest/5691286564634624)　[第6回 (5/29)](https://not-522.appspot.com/contest/5178580145274880)　
     
-    [第7回 (6/5)](https://not-522.appspot.com/contest/5666380049285120)　[第8回 (6/12)](https://not-522.appspot.com/contest/5191444914503680)　[第9回 (6/19)](https://not-522.appspot.com/contest/5465527044538368)　[第10回 (6/26)](https://not-522.appspot.com/contest/5672180067074048)
+    [第7回 (6/5)](https://not-522.appspot.com/contest/5666380049285120)　[第8回 (6/12)](https://not-522.appspot.com/contest/5191444914503680)　[第9回 (6/19)](https://not-522.appspot.com/contest/5465527044538368)　[第10回 (6/26)](https://not-522.appspot.com/contest/5672180067074048)　[第9回 (7/2)](https://not-522.appspot.com/contest/5654548018364416)
 
 
 - オンライン実行環境
