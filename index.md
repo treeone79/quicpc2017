@@ -6,32 +6,13 @@ title: プログラミング講習会
 ## 九州大学ICPCチャレンジ部　
 # プログラミング講習会　2017
 
-### 1　連絡事項
+---
 
-- 第11回講習会　7/3(月)　 センター2号館 2213教室　18:30 〜
+2017年度のプログラミング講習会は終了しました。
 
-- 第12回講習会　7/10(月)　 センター2号館 2213教室　18:30 〜
-
-
-- 今後の講習会の予定
-
-    C++講習、アルゴリズム入門、TopCoder導入、マラソンマッチ入門
- 
-- ICPC国内予選に参加する人へ
-
-    7/14(金)に国内予選が行われます。ウエスト2号館506室に集まって下さい。
-
-- 講習会で練習問題が早く終わって暇な人は過去の AtCoder Beginner Contest の問題をやってみよう。
-
-    (新しい回からやることをオススメします)
-
-    [AtCoder Problems](http://kenkoooo.com/atcoder/?name=&rivals=&kind=index) というサイトを使うと便利です。
-
-- 今年の ICPC 国内予選に参加する人は、[AOJ-ICPC](http://aoj-icpc.ichyo.jp/) にある過去の大会の問題を解きましょう。
-
-
+---
     
-### 2　講習会の資料など
+### 講習会の資料
 
 - [新入生向け資料置き場 (Google Drive)](https://drive.google.com/open?id=0B9of6y9tKcUzODYwM2dVNC1iRnc)
 
@@ -65,7 +46,7 @@ title: プログラミング講習会
     - [Mac](https://drive.google.com/open?id=0B9iMG4uLIrLsMThjSGk3U0hvVGs)
 
 
-### 3　各種サイトへの登録
+### 各種サイトへの登録
 
 - [AtCoder](http://atcoder.jp)
 
@@ -105,3 +86,4 @@ title: プログラミング講習会
      [Skype : ICPCチャレンジ部 プログラミング講習会 2017](<https://join.skype.com/z6b3cucjrTlK>)
 
     [Skypeのダウンロードはここから](https://www.skype.com/ja/download-skype/skype-for-computer/)
+
